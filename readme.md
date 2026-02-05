@@ -1,0 +1,1 @@
+python -m streamlit run basketball_eda.py
